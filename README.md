@@ -27,3 +27,19 @@ WPF介绍
 选择：CheckBox、ComboBox、ListBox、RadioButton 和 Slider。
 
 用户信息：AccessText、Label、Popup、ProgressBar、StatusBar、TextBlock 和 ToolTip。
+
+## 控件分类
+    布局控件   Panel
+    
+    内容控件   ContentControl 只能容纳一个控件或布局控件
+    
+    带标题内容控件  内容控件可以设置标题  Header     父类：HeaderedContentControl
+    
+    条目控件  可以显示一列数据，数据类型一般相同 ItemControl
+    
+    带标题的条目控件  条目控件可以设置标题  Header    父类：HeaderedItemControl
+    
+    特殊内容控件   常用的控件：TextBox PasswordBox TextBlock Image等
+  
+    第三方WPF控件
+    
