@@ -45,18 +45,23 @@
     
 ## WPF常用布局控件
 1、Grid：网格。可以自定义行和列并通过行列的数量、行高列宽来调整控件的布局。近似Html中的table， 就犹如：
+
 ![image](https://user-images.githubusercontent.com/26539681/141948955-1ce5880e-83a6-4d5f-ad16-fcb2cfe630af.png)
 
 2、DockPanel：泊靠式面板。内部元素可以选择泊靠的方向（上下左右），类似于Winform中设置控件的Dock属性，就犹如：
+
 ![image](https://user-images.githubusercontent.com/26539681/141949021-26ca7984-4011-4605-826d-96ac64c2c01a.png)
 
 3、StackPanel：栈式面板。可将包含的元素在水平或垂直方向排成一条线，当移除一个元素后，后面的元素会自动向前填充空缺。
+
 ![image](https://user-images.githubusercontent.com/26539681/141949062-74157ac0-1425-41a7-9ac5-a0dac0ed2a5f.png)
 
 4、WrapPanel：自动折行面板。内部元素在排满一行后能够自动折行，类似于Html中的流式布局。
+
 ![image](https://user-images.githubusercontent.com/26539681/141949117-e0eb7f61-a648-42f3-8713-38404d984915.png)
 
 5、Canvas：画布。内部元素可以使用以像素为单位的绝对坐标进行定位，类似于Windows Form 的布局方式。
+
 ![image](https://user-images.githubusercontent.com/26539681/141949155-812de355-a69a-42be-94cc-2ba2260d505e.png)
 
 
