@@ -76,6 +76,7 @@
 ![image](https://user-images.githubusercontent.com/26539681/141949155-812de355-a69a-42be-94cc-2ba2260d505e.png)
 
 ## WPF窗体的生命周期
+![image](https://user-images.githubusercontent.com/26539681/142174602-67e43e04-73d0-48cb-907b-8956a094ec66.png)
 
 
 
