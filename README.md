@@ -29,17 +29,17 @@
 用户信息：AccessText、Label、Popup、ProgressBar、StatusBar、TextBlock 和 ToolTip。
 
 ## 控件分类
-    布局控件   Panel
+    布局控件：容器控件，排列和组织其他控件，其父类是Panel
     
-    内容控件   ContentControl 只能容纳一个控件或布局控件
+    内容控件：只能容纳一个控件或布局控件作为他的内容，父类是ContentControl
     
-    带标题内容控件  内容控件可以设置标题  Header     父类：HeaderedContentControl
+    带标题内容控件：只能容纳一个控件或布局控件作为他的内容，可以加一个标题，父类是HeaderedContentControl
     
-    条目控件  可以显示一列数据，数据类型一般相同 ItemControl
+    条目控件：  可以显示一列数据，数据类型一般相同，父类是ItemControl
     
-    带标题的条目控件  条目控件可以设置标题  Header    父类：HeaderedItemControl
+    带标题的条目控件：  可以显示一列数据，数据类型一般相同，可以设置标题，父类是HeaderedItemControl
     
-    特殊内容控件   常用的控件：TextBox PasswordBox TextBlock Image等
+    特殊内容控件：这类控件比较独立，但也比较常用，如TextBox PasswordBox TextBlock Image等
   
     第三方WPF控件
     
