@@ -1,6 +1,6 @@
 # LC_WPF
 ## WPF入门必备
-首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板）、各种数据绑定、命令系统、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand
+首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板、面板模板）、各种数据绑定、命令系统、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand
 ## 内置的 WPF 控件。
 按钮：Button 和 RepeatButton。
 
