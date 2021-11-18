@@ -4,7 +4,7 @@
 
 一、资源样式：静态资源和动态资源、样式定义、样式触发器。
 
-二、模板：
+二、模板：WPF中有三大模板ControlTemplate,ItemsPanelTemplate,DataTemplate.其中ControlTemplate和ItemsPanelTemplate是控件模板，DataTemplate是数据模板，他们都派生自FrameworkTemplate抽象类。
 
  1) 控件模板：针对于控件本身，修改它可以改变控件本身表现的样子。
 
