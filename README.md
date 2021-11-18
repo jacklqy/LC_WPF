@@ -27,6 +27,8 @@
     注1：对于.NET集合/对象来说，它不具备UI目标属性与源数据同步。为了让目标属性与源集合的更改保持同步，源集合必须实现一个叫INotifyCollectionChanged的接口，但通常我们只需要将集合类继承于ObservableCollection类即可。因为ObservableCollection实现了INotifyPropertyChanged和INotifyCollectionChanged接口。
  
     注2：DataContext是数据上下文对象，它是为了避免多个对象共享一个数据源时重复的对所有对象显示地用binding标记每个Source/RelativeSource/ElementName，而把同一个数据源在上下文对象的某个范围内共享，这样当一个绑定没有显示的源对象时，WPF会遍历逻辑树找到一个非空的DataContext为止。
+    
+    RelativeSource：Self/TemplatedParent/AncestorType
  
  3) 数据绑定-》Binding
 
