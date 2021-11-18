@@ -16,7 +16,11 @@
 
 数据绑定：
 
- 1) 对象间的绑定-》UI与UI(xaml)、UI与.net对象(代码)
+ 1) 对象间的绑定：
+ 
+    a) UI与UI(xaml)
+    
+    b) UI与.net对象(代码)
  
  2) 对象绑定到集合-》ItemsSource
  
