@@ -28,9 +28,7 @@
  
     注2：DataContext是数据上下文对象，它是为了避免多个对象共享一个数据源时重复的对所有对象显示地用binding标记每个Source/RelativeSource/ElementName，而把同一个数据源在上下文对象的某个范围内共享，这样当一个绑定没有显示的源对象时，WPF会遍历逻辑树找到一个非空的DataContext为止。
     
-    RelativeSource：Self/TemplatedParent/AncestorType
- 
- 3) 数据绑定-》Binding
+ 3) RelativeSource：Self/TemplatedParent/AncestorType
 
 ## 内置的 WPF 控件。
 按钮：Button 和 RepeatButton。
