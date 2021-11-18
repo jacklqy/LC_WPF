@@ -34,7 +34,7 @@
 
 MVVM是Model、View、ViewModel的简写。这种模式的引入就是使用ViewModel来降低View和Model的耦合。Model就是一个class，是对现实中事物的抽象，开发过程中涉及到的事物都可以抽象为Model。View很好理解，就是界面。ViewModel就是对View的抽象，显示的数据对应着ViewMode中的Property，执行的命令对应着ViewModel中的Command。
 
-六、Command命令：
+六、Command命令：WPF中使用命令的步骤：创建命令-》绑定命令-》设置命令源-》设置命令目标
 
   1)自定义Command
   
