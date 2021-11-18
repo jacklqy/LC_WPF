@@ -16,9 +16,9 @@
 
 数据绑定：
 
- 1)对象间的绑定-》UI与UI、UI与.net对象
+ 1)对象间的绑定-》UI与UI(xaml)、UI与.net对象(代码)
  
- 2)绑定到集合-》ItemsSource
+ 2)对象绑定到集合-》ItemsSource
  
  3)数据绑定-》Binding
 
