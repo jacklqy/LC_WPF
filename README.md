@@ -1,6 +1,6 @@
 # LC_WPF
 ## WPF入门必备
-首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板、面板模板）、各种数据绑定、命令系统、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand 。
+首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板、面板模板）、各种数据绑定、Command命令、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand 。
 
 资源样式：静态资源和动态资源、样式定义、样式触发器。
 
