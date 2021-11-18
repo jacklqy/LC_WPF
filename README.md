@@ -24,6 +24,8 @@
  
  2) 对象绑定到集合-》ItemsSource
  
+    注：对于.NET集合/对象来说，它不具备UI目标属性与源数据同步。为了让目标属性与源集合的更改保持同步，源集合必须实现一个叫INotifyCollectionChanged的接口，但通常我们只需要将集合类继承于ObservableCollection类即可。因为ObservableCollection实现了INotifyPropertyChanged和INotifyCollectionChanged接口。
+ 
  3) 数据绑定-》Binding
 
 ## 内置的 WPF 控件。
