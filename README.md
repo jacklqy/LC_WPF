@@ -2,6 +2,8 @@
 ## WPF入门必备 -》数据驱动UI
 首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板、面板模板）、各种数据绑定、Command命令、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand 。
 
+上位机相关通信协议：Modbus，s7.net
+
 一、资源样式：静态资源和动态资源、样式定义、样式触发器。
 
 二、模板：WPF中有三大模板ControlTemplate,ItemsPanelTemplate,DataTemplate.其中ControlTemplate和ItemsPanelTemplate是控件模板，DataTemplate是数据模板，他们都派生自FrameworkTemplate抽象类。
