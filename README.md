@@ -51,6 +51,11 @@ ASCII 码使用指定的7 位或8 位二进制数组合来表示128 或256 种�
 
 上位机常见通信协议：Modbus、S7、Fins、BACnet、Can、MQTT
 
+Modbus协议的分类:
+ 1)网口：ModbusTCP、ModbusUDP RTU Over TCP
+ 
+ 2)串口：ModbusRTU、ModbusAscii
+
 一、资源样式：静态资源和动态资源、样式定义、样式触发器。
 
 二、模板：WPF中有三大模板ControlTemplate,ItemsPanelTemplate,DataTemplate.其中ControlTemplate和ItemsPanelTemplate是控件模板，DataTemplate是数据模板，他们都派生自FrameworkTemplate抽象类。
