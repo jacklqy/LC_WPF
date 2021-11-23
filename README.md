@@ -56,6 +56,8 @@ Modbus协议的分类:
  1)网口：ModbusTCP、ModbusUDP  --  RTU Over TCP
  
  2)串口：ModbusRTU、ModbusAscii
+ 
+ 模拟工具 辅助软件：Modbus Slave（从机模拟）、Modbus Poll（主机模拟）、Configure Virtual Serial Port Driver(串口仿真)
 
 一、资源样式：静态资源和动态资源、样式定义、样式触发器。
 
