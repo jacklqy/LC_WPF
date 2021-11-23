@@ -49,7 +49,7 @@ ASCII 码使用指定的7 位或8 位二进制数组合来表示128 或256 种�
 ## WPF入门必备 -》数据驱动UI
 首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板、面板模板）、各种数据绑定、Command命令、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand 。
 
-通信组件：Socket(网口(TcpClient、UdpClient))、SerialPort(串口)；网口RJ45、串口232/422/485；
+通信组件：Socket(网口(TcpClient、UdpClient))、SerialPort(串口)；电气接口：网口RJ45、串口232/422/485；
 
 上位机常见通信协议：Modbus(通信库NModbus)、S7(通信库s7.net)、Fins、BACnet、Can、MQTT
 
