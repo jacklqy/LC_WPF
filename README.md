@@ -15,6 +15,8 @@ Byte（字节）：Byte的缩写是B，是计算机文件大小的基本计算�
 1TB = 1024GB
 
 二进制(0/1)、八进制(0-7)、十进制(0-9)、十六进制(0-F) 之间的相互转换。
+![image](https://user-images.githubusercontent.com/26539681/142978936-4f4b861e-7639-45b9-8c51-a7beed368151.png)
+
 
 ## ASCII编码：美国信息交换标准代码
 产生原因：
