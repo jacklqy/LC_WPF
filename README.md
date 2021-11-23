@@ -17,7 +17,7 @@ Byte（字节）：Byte的缩写是B，是计算机文件大小的基本计算�
 ## WPF入门必备 -》数据驱动UI
 首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板、面板模板）、各种数据绑定、Command命令、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand 。
 
-上位机相关通信协议：Modbus，s7.net
+上位机相关通信协议：Modbus、S7、Fins、BACnet、Can、MQTT
 
 一、资源样式：静态资源和动态资源、样式定义、样式触发器。
 
