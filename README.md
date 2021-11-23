@@ -49,7 +49,7 @@ ASCII 码使用指定的7 位或8 位二进制数组合来表示128 或256 种�
 
 通信组件：Socket（网口（TcpClient、UdpClient））、SerialPort （串口）
 
-上位机常见通信协议：Modbus、S7、Fins、BACnet、Can、MQTT
+上位机常见通信协议：Modbus(通信库NModbus)、S7(通信库s7.net)、Fins、BACnet、Can、MQTT
 
 Modbus协议的分类:
 
