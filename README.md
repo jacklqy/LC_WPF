@@ -52,6 +52,7 @@ ASCII 码使用指定的7 位或8 位二进制数组合来表示128 或256 种�
 上位机常见通信协议：Modbus、S7、Fins、BACnet、Can、MQTT
 
 Modbus协议的分类:
+
  1)网口：ModbusTCP、ModbusUDP RTU Over TCP
  
  2)串口：ModbusRTU、ModbusAscii
