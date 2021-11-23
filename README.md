@@ -1,4 +1,19 @@
 # LC_WPF
+## 计算机基础知识
+bit（位，又名“比特”）：bit的缩写是b，是计算机中的最小数据单位（属于二进制的范畴，其实就是0或者1）
+
+Byte（字节）：Byte的缩写是B，是计算机文件大小的基本计算单位。比如一个字符就是1Byte，如果是汉字，则是2Byte。
+
+1B（字节）= 8b（位）
+
+1KB = 1024B
+
+1MB = 1024KB
+
+1GB = 1024MB
+
+1TB = 1024GB
+
 ## WPF入门必备 -》数据驱动UI
 首先熟悉常用控件的基本使用、然后资源样式、模板（控件模板与数据模板、面板模板）、各种数据绑定、Command命令、MVVM、Prism框架的DelegateCommand/MVVMLight的RelayCommand 。
 
