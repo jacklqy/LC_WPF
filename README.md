@@ -53,7 +53,7 @@ ASCII 码使用指定的7 位或8 位二进制数组合来表示128 或256 种�
 
 Modbus协议的分类:
 
- 1)网口：ModbusTCP、ModbusUDP    RTU Over TCP
+ 1)网口：ModbusTCP、ModbusUDP  --  RTU Over TCP
  
  2)串口：ModbusRTU、ModbusAscii
 
