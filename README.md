@@ -55,9 +55,9 @@ ASCII 码使用指定的7 位或8 位二进制数组合来表示128 或256 种�
 
 Modbus协议的分类：协议的本质=>一组传输数据的格式，字节操作。
 
- 1)网口：***ModbusTCP***、ModbusUDP  --  RTU Over TCP
+ 1)网口：****ModbusTCP****、ModbusUDP  --  RTU Over TCP
  
- 2)串口：***ModbusRTU、ModbusAscii***
+ 2)串口：****ModbusRTU、ModbusAscii****
  
  模拟工具 辅助软件：Modbus Slave（从机模拟）、Modbus Poll（主机模拟）、Configure Virtual Serial Port Driver(串口仿真)
 
