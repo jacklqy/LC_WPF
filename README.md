@@ -84,7 +84,7 @@ ASCII 码使用指定的7 位或8 位二进制数组合来表示128 或256 种�
 
 上位机开发数据实时采集方式：1)多线程while轮训。 2)opc-》订阅，opc服务器数据有变化时进行通知
 
-上位机常见通信协议：Modbus(通信库NModbus)、S7(通信库s7.net)、Fins、BACnet、Can、MQTT、OPC
+上位机常见通信协议：Modbus(通信库NModbus)、S7(通信库s7.net)、Fins、BACnet、Can、MQTT、OPC UA
 
 (重点)通信协议入门：***理解协议报文结构，报文的组装与请求响应。***
 
