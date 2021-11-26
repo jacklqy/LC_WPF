@@ -95,6 +95,8 @@ Modbus协议的分类：协议的本质=>一组传输数据的格式，字节操
  2)串口：***ModbusRTU、ModbusAscii***
  
  模拟工具 辅助软件：Modbus Slave（从机模拟）、Modbus Poll（主机模拟）、Configure Virtual Serial Port Driver(串口仿真)
+ 
+ 报文结构讲解。消息发送：报文组装-》发送到设备。消息接收：报文解析-》展示
  ![image](https://user-images.githubusercontent.com/26539681/143185554-201b275f-62b4-49cc-805b-543b57650345.png)
 
 一、资源样式：静态资源和动态资源、样式定义、样式触发器。
